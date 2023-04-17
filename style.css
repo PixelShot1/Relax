@@ -58,16 +58,16 @@ ul li{
 ul li a{
   display: block;
   padding: 2px;
-  border: solid 2px rgb(39, 51, 17);
+  border: solid 2px rgb(51, 17, 17);
   text-decoration: none;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
 
 
 
 
 }
 ul li:hover a{
-  border: solid 2px rgb(0, 0, 0);
+  border: solid 2px rgb(255, 0, 0);
   background-color: rgb(241, 241, 241);
-  color: #000000;
+  color: #ff0000;
 }
